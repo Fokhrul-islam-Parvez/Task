@@ -1,14 +1,15 @@
 list of book
 
 1. 	Pride and Prejudice by (Jane Austen)  
-2.   The Notebook by (Nicholas Sparks) 
+2. 	The Notebook by (Nicholas Sparks) 
 3. 	Romeo and Juliet by (William Shakespeare)  
 4. 	The Time Traveler's Wife by (Audrey Niffenegger)
 5. 	A Walk to Remember by (Nicholas Sparks)
 6. 	The Princess Bride by (William Goldman) 
 7. 	Emma by (Jane Austen)  
 8. 	Little Women by (Louisa May Alcott)
-9. 	Memoirs of a Geisha 
-10.	The Hunger Games 
+9. 	Memoirs of a Geisha by (Arthur Golden)  
+10.	The Hunger Games by (Suzanne Collins)
+
 thank you
 Final Copy
