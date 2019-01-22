@@ -3,3 +3,7 @@ list of book
 2.  The Notebook 
 3. 	Romeo and Juliet 
 4. 	The Time Traveler's Wife 
+5. 	A Walk to Remember 
+6. 	The Princess Bride 
+7. 	Emma 
+8. 	Little Women 
